@@ -1,13 +1,9 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [README](introduction.md)
+* [Introduction](README.md)
 * [en](en/README.md)
-  * [README](en/first.md)
-  * [README](en/introduction_en.md)
-  * [Summary](en/summary.md)
-* [LANGS](langs.md)
+  * [First](en/first.md)
+  * [Second](en/introduction_en.md)
 * [zh](zh/README.md)
-  * [README](zh/introduction_zh.md)
-  * [Summary](zh/summary.md)
+  * [First](zh/introduction_zh.md)
 
